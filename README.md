@@ -7,9 +7,23 @@
 
 ### Instalación
 
-1. Descargar el [zip del repositorio](https://github.com/AgustinBrst/WebGL-StarterPack-Box-Demo/archive/master.zip).
-2. Descomprimirlo donde se quiera que quede el proyecto.
-3. Desde la carpeta del proyecto ejecutar `npm install` para instalar todas las dependencias.
+Desde el terminal:
+
+1. Ir a la carpeta donde se quiera que quede el proyecto.
+
+   __`cd carpeta/destino`__
+   
+2. Clonar el respositorio
+
+   __`git clone https://github.com/AgustinBrst/WebGL-StarterPack-Box-Demo.git`__
+   
+3. Ir a la carpeta generada
+
+   __`cd WebGL-StarterPack-Box-Demo`__
+   
+4. Instalar dependencias
+
+   __`npm install`__
 
 ### Uso
 
